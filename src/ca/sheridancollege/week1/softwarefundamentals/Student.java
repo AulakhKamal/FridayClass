@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student can: say their name (getName)
  * @modifiedby Kamal
  * push operation
+ * showing change on github
  * 
  * @author dancye May 7, 2018
  */

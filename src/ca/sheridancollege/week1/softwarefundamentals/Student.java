@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @modifiedby Kamal
  * push operation
  * showing change on github
- * 
+ * changing the file on github
  * @author dancye May 7, 2018
  */
 public class Student 
